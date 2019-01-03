@@ -1,6 +1,6 @@
 # world_cup
 
-A new Flutter application.
+A new Flutter application, created just to explore Flutter and learn more about the UI libraries.
 
 ## Getting Started
 
